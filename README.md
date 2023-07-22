@@ -1,4 +1,4 @@
-## Weather-App
+# Weather-Web-App
 
 ![Screenshot (715)](https://github.com/adityapandey1111/Bootstrap-Weather-App/assets/114282369/998053f9-6241-474e-a584-8e1d958f594b)
 ![Screenshot (716)](https://github.com/adityapandey1111/Bootstrap-Weather-App/assets/114282369/5e1db16d-55b4-43b1-8ab0-187cca689462)
