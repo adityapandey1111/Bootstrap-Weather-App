@@ -130,7 +130,7 @@ input:focus {
 }
 @media screen and (max-width: 768px) {
   body{
-    height: 100%;
+    height: 200%;
   }
   .fa {
     border-radius: 0;
