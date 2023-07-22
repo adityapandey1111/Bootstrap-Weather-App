@@ -128,7 +128,7 @@ input:focus {
 #date {
   font-size: 18px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 968px) {
   body{
     height: 200%;
   }
