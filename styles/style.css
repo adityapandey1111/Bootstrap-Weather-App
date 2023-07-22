@@ -5,7 +5,7 @@
 body {
   color: #fff;
   overflow-x: hidden;
-  height: auto;
+  height: 100%;
   background: linear-gradient(180deg, #373046, rgb(30, 25, 48));
   background-repeat: no-repeat;
   line-height: 2.38;
@@ -129,6 +129,9 @@ input:focus {
   font-size: 18px;
 }
 @media screen and (max-width: 768px) {
+  body{
+    height: 100%;
+  }
   .fa {
     border-radius: 0;
     background: none;
